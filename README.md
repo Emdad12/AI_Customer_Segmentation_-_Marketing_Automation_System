@@ -82,10 +82,10 @@ Email Sent
 [(Click Here)](https://aicustomersegmentationmarketingautomationsystem-exaycfw3ned9js.streamlit.app/)
 
 ### 💻 How to Run Locally
-git clone https://github.com/emdad-12/customer-segmentation-marketing-automation.git
-cd customer-segmentation-marketing-automation
-pip install -r requirements.txt
-streamlit run app.py
+git clone https://github.com/emdad-12/customer-segmentation-marketing-automation.git  
+- cd customer-segmentation-marketing-automation
+- pip install -r requirements.txt
+- streamlit run app.py
 ### 🚀 Future Improvements
 - Add customer segmentation visualization dashboard
 - Store prediction history in database
